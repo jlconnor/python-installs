@@ -4,8 +4,6 @@
 #
 #    pip-compile
 #
-appnope==0.1.2
-    # via ipython
 backcall==0.2.0
     # via ipython
 certifi==2021.10.8
@@ -26,7 +24,7 @@ fonttools==4.28.3
     # via matplotlib
 idna==3.3
     # via requests
-ipython==7.30.1
+ipython==7.31.1
     # via -r requirements.in
 itermplot==0.331
     # via -r requirements.in
