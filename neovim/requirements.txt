@@ -6,21 +6,7 @@
 #
 greenlet==1.1.2
     # via pynvim
-jedi==0.17.2
-    # via python-language-server
 msgpack==1.0.3
     # via pynvim
-parso==0.7.1
-    # via jedi
-pluggy==1.0.0
-    # via python-language-server
 pynvim==0.4.3
     # via -r requirements.in
-python-jsonrpc-server==0.4.0
-    # via python-language-server
-python-language-server==0.36.2
-    # via -r requirements.in
-ujson==5.3.0
-    # via
-    #   python-jsonrpc-server
-    #   python-language-server
